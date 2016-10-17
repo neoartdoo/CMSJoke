@@ -1,0 +1,4 @@
+RewriteEngine OFF
+RewriteBase /cms/
+
+# END WordPress

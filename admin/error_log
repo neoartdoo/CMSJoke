@@ -1,0 +1,8 @@
+[05-Feb-2006 02:47:26] PHP Warning:  main(../conn.php): failed to open stream: No such file or directory in /home/kitchenr/public_html/admin/entry.php on line 2
+[05-Feb-2006 02:47:26] PHP Warning:  main(../conn.php): failed to open stream: No such file or directory in /home/kitchenr/public_html/admin/entry.php on line 2
+[05-Feb-2006 02:47:26] PHP Warning:  main(): Failed opening '../conn.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kitchenr/public_html/admin/entry.php on line 2
+[05-Feb-2006 02:47:26] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/kitchenr/public_html/admin/entry.php on line 5
+[05-Feb-2006 02:50:34] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/kitchenr/public_html/admin/entry.php on line 5
+[05-Feb-2006 02:50:59] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/kitchenr/public_html/admin/entry.php on line 5
+[05-Feb-2006 02:56:40] PHP Parse error:  syntax error, unexpected T_STRING in /home/kitchenr/public_html/admin/entry.php on line 7
+[05-Feb-2006 03:20:40] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/kitchenr/public_html/admin/edit1.php on line 39
